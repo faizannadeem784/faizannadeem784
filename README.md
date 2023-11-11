@@ -1,12 +1,34 @@
 
 <h1 align="center">Hi 👋, I'm Faizan Nadeem</h1>
-<h3 align="center">Hi there! As a software engineer with a diverse skill set, I am proficient in programming languages such as C, C++, C#, Python, and Java. With my expertise in full-stack development, I have the ability to design, develop, and deploy web applications using technologies such as HTML, CSS, JavaScript, and various front-end and back-end frameworks. Throughout my academic and professional experience, I have demonstrated strong analytical and problem-solving skills, as well as the ability to collaborate with others in team-oriented environments. My passion for learning new technologies and programming languages enables me to stay up-to-date with the latest advancements in the field. I'm passionate about coding and building useful applications that can make a difference in people's lives. My GitHub profile showcases some of the projects I've been working on, including web applications, mobile apps, and open-source contributions. I'm constantly learning and improving my skills, and I believe in the power of collaboration and sharing knowledge. In my spare time, I enjoy experimenting with new technologies and exploring new programming languages. I'm always up for a challenge and love tackling complex problems. Feel free to check out my projects and get in touch if you have any questions or if you're interested in collaborating on a project. Let's build something great together!</h3>
+<h3 align="center">Software Engineer | Artificial Intelligence Enthusiast
+About Me
+Passionate and results-driven Software Engineer specializing in Artificial Intelligence. Recent graduate with a strong foundation in machine learning and deep learning. Eager to contribute to cutting-edge projects and bring innovative solutions to real-world problems.
+
+💼 Professional Experience
+i'm currenlty working at InvoZone in Artifical Intelligence and contribute my skills in the field of Ai.
+
+Collaborated with a dynamic team to develop and implement machine learning models for projects or applications.
+Utilized different programming languages, frameworks, and tools to create scalable and efficient AI solutions.
+Contributed to the optimization and improvement of existing algorithms, enhancing overall system performance.
+🚀 Key Skills
+Programming Languages: Python and their Frameworks Flask, Django, HTML,CSS,JS,Php,C,C++,C#
+Machine Learning: TensorFlow, PyTorch, scikit-learn
+Deep Learning: Neural Networks, CNNs, RNNs, FasterRCNN.
+📚 Education
+[University of Management and Technology]
+Bachelor of Science in [Software Engineering]
+[2019-2023]
+
+📈 Certifications
+Done one year course in Artifical Intelligence from Presidential Initiative Artifical intelligence.
+🌟 Achievements
+Winning award from Superior university in Coding competition. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizannadeem784&label=Profile%20views&color=0e75b6&style=flat" alt="faizannadeem784" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **University Final Year Project (Pneumonia Detection and Segmentation using deep learning)**
+- 🔭 **University Final Year Project (Pneumonia Detection and Segmentation using deep learning)**
 
 - 🌱 I’m currently learning **react, game development, improve data structure and algorithm**
 
